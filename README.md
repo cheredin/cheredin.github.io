@@ -2,7 +2,3 @@
 
 
 Ilya Cheredin
-
-
-
-Поговорим
