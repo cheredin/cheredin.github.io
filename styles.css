@@ -1,0 +1,73 @@
+<style type="text/css">
+
+	.mystyle{
+
+	}
+
+	.basic{
+		margin-top: 1%;
+		font: 12pt sans-serif;  
+    	display: flex;
+		/*background: #ff0000;*/
+	}
+
+	.main{
+		flex: 0 0 500px;
+		/*background: #ffFF00;*/
+	}
+
+	.fill_l{
+    	/*float: left;*/
+    	/*width: 10%;*/
+		flex: 5%
+		/*background: #00ff00;		*/
+	}
+
+	.fill_r{
+    	/*float: left;*/
+    	/*width: 60%;*/
+		flex: 15%;
+		margin-right: 0%;
+		/*background: #00ff00;		*/
+	}
+
+	.small-text {
+        font-size: 70%;
+        color: rgba(0, 0, 1, 0.5);
+        font-style: : italic;
+    }
+
+	.about {
+		flex: 0 0 500px;
+        /*font-size: 70%;*/
+        color: rgba(0, 0, 0, 1);
+        font-style: : italic;
+
+		/*background: #ffFF00;*/
+    }
+
+	.title{
+		text-align: right;
+		margin-right: 20px;
+		flex: 0 0 180px;
+		width: 300 px;
+
+        color: rgba(0, 0, 0, 0.3);
+		/*background: #00ffff;*/
+	}
+
+	.main-links-hidden{
+        color: rgba(0, 0, 0, 0.5);
+        text-size: 80%;
+     }
+
+/*	.main-links{
+        color: rgba(0, 0, 0, 1);
+        text-size: 80%;
+     }
+*/
+
+
+
+
+</style>
