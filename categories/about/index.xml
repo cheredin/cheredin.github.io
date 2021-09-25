@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about on Ilya Cheredin</title>
+    <link>https://cheredin.ru/categories/about/</link>
+    <description>Recent content in about on Ilya Cheredin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 08 Sep 2021 22:55:05 -0400</lastBuildDate><atom:link href="https://cheredin.ru/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://cheredin.ru/about/</link>
+      <pubDate>Wed, 08 Sep 2021 22:55:05 -0400</pubDate>
+      
+      <guid>https://cheredin.ru/about/</guid>
+      <description>Working as a DWDM/OTN product manager in Fibo-Telecom LLC. I am designing fiber optic networks for a long and ultra-long distances with 10G and 100G/200G channel speed.
+I start work on the project with talking to customer about technical requirements. After network design, I talk with suppliers, choose the best quality/price ratio and make an order. When the devices came to our stock, I test the solution and send devices to customer.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://cheredin.ru/posts/first/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://cheredin.ru/posts/first/</guid>
+      <description>Erlich administers the Hacker Hostel, a tech incubator where Richard, Big Head, Dinesh, and Gilfoyle live and work in exchange for 10 percent of their potential businesses. Erlich clings to his glory days, when he sold aviation start-up Aviato, a move that, at least in his mind, qualifies him to be a svengali lording over other tech nerds. He still drives a car emblazoned with multiple Aviato logos and smokes copious amounts of weed.</description>
+    </item>
+    
+  </channel>
+</rss>

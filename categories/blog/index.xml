@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Ilya Cheredin</title>
+    <link>https://cheredin.ru/categories/blog/</link>
+    <description>Recent content in blog on Ilya Cheredin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 08 Sep 2021 22:55:05 -0400</lastBuildDate><atom:link href="https://cheredin.ru/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First post</title>
+      <link>https://cheredin.ru/blog/test/</link>
+      <pubDate>Wed, 08 Sep 2021 22:55:05 -0400</pubDate>
+      
+      <guid>https://cheredin.ru/blog/test/</guid>
+      <description>This is the first test post
+sdgf sdgf
+fghgf</description>
+    </item>
+    
+  </channel>
+</rss>

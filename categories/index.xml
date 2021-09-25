@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Ilya Cheredin</title>
+    <link>https://cheredin.ru/categories/</link>
+    <description>Recent content in Categories on Ilya Cheredin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 08 Sep 2021 22:55:05 -0400</lastBuildDate><atom:link href="https://cheredin.ru/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>https://cheredin.ru/categories/about/</link>
+      <pubDate>Wed, 08 Sep 2021 22:55:05 -0400</pubDate>
+      
+      <guid>https://cheredin.ru/categories/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>https://cheredin.ru/categories/blog/</link>
+      <pubDate>Wed, 08 Sep 2021 22:55:05 -0400</pubDate>
+      
+      <guid>https://cheredin.ru/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
